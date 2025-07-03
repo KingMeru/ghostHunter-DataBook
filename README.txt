@@ -1,5 +1,3 @@
-AUTHOR: Oluwaseun Samuel Ogunmeru
-STUDENT ID: 101229829
 PROGRAM DESCRIPTION: This program displays all ghosts by room or by likelihood or a general list of all ghosts
 Source file(s): main.c, ghost.c, room.c, building.c, defs.h, and a Makefile
 Compilation Instruction: make
